@@ -1,0 +1,7 @@
+Element,Value
+EPS,"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader(""X-NewRelic-App-Data"");r&&(t.params.cat=r.split("", "").pop())}t.loadCaptureCalled=!0}var a=t(""loader"");if(a.xhrWrappable){var c=t(""handle""),s=t(13),f=t(11).generateTracePayload,u=t(""ee""),d=[""load"
+PE,591.33
+10d Volume,34.93M
+Market Cap,556.209B
+Revenue TTM,3.50%
+Net Profit TTM,900.40
