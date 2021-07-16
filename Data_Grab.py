@@ -8,7 +8,7 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import requests
 
-Ticker = 'NKLA'
+Ticker = ''
 
 link = ("https://www.cnbc.com/quotes/?symbol=" + Ticker + "&qsearchterm=" + Ticker)
 html = requests.get(link).content
