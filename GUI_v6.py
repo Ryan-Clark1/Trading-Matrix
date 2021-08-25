@@ -28,7 +28,7 @@ root.after_idle(root.attributes,'-topmost',False)
 title = tk.Label(root, text="Trading Matrix")
 title.pack()
 
-background_image=tk.PhotoImage(file="C:\\Users\\Ryan\\PycharmProjects\\Trading Matrix\\background.png")
+background_image=tk.PhotoImage(file=File path)
 background_label = tk.Label(root, image=background_image)
 background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
